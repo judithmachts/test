@@ -3,6 +3,6 @@ def say_hello():
     
 def say_goodbye():
     print ("Goodbye, world")
-    
+
 if __name__=="__main__":
     say_hello()
